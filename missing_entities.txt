@@ -1,0 +1,21 @@
+Background Type
+Background Sport
+H1 Report Titles
+Horse Breed
+Horse Colour
+Horse Gender
+Language
+Martial Status
+News Type
+News Sport
+Positions
+Record
+Record Type
+Result Status
+Schedule Status
+Session Type
+Weather Conditions
+Weather Snow Conditions
+Weather Region
+Weather Region - Venue
+Wind Direction
